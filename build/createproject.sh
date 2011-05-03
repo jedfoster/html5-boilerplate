@@ -12,7 +12,7 @@
 # $ cd  html5-boilerplate/build
 # $ ./createproject.sh
 
-# find project root (also ensure script is ran from within repo)
+# find project root (also ensure script is run from within repo)
 src=$(git rev-parse --show-toplevel) || {
   echo "try running the script from within html5-boilerplate directories." >&2
   exit 1
