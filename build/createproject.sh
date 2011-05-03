@@ -44,7 +44,7 @@ else
     cd -- "$src"
     cp -vr -- css js img build test *.html *.xml *.txt *.png *.ico .htaccess "$dst"
 
-    #sucess message
+    #success message
     echo "Created Project: $dst"
 fi
 
