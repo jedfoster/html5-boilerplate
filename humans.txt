@@ -1,43 +1,15 @@
-/* the humans responsible & colophon */
-/* humanstxt.org */
-
-
 /* TEAM */
-  <your title>: <your name>
-  Site: 
-  Twitter: 
-  Location: 
+  The Man: Jed Foster
+  Contact: http://jedfoster.com/contact
+  Twitter: @jed_foster
+  Location: Seattle, WA, USA
 
-/* THANKS */
-  Names (& URL): 
+/* THANKS */	
+	Soundtrack by: Bear McCreary and 5by5.fm
+  Tasty beverages by: Starbucks and Mac & Jack's
+	"Inspiration" by: Dan Benjamin of 5by5.tv and Merlin Mann of 43folders.com
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
-  Software:
-  
-
-                                    
-                               -o/-                       
-                               +oo//-                     
-                              :ooo+//:                    
-                             -ooooo///-                   
-                             /oooooo//:                   
-                            :ooooooo+//-                  
-                           -+oooooooo///-                 
-           -://////////////+oooooooooo++////////////::    
-            :+ooooooooooooooooooooooooooooooooooooo+:::-  
-              -/+ooooooooooooooooooooooooooooooo+/::////:-
-                -:+oooooooooooooooooooooooooooo/::///////:-
-                  --/+ooooooooooooooooooooo+::://////:-   
-                     -:+ooooooooooooooooo+:://////:--     
-                       /ooooooooooooooooo+//////:-        
-                      -ooooooooooooooooooo////-           
-                      /ooooooooo+oooooooooo//:            
-                     :ooooooo+/::/+oooooooo+//-           
-                    -oooooo/::///////+oooooo///-          
-                    /ooo+::://////:---:/+oooo//:          
-                   -o+/::///////:-      -:/+o+//-         
-                   :-:///////:-            -:/://         
-                     -////:-                 --//:        
-                       --                       -:        
+  Components: HTML5 Boilerplate, Modernizr, Prototype/script.aculo.us, Blueprint CSS
+  Built with: TextMate and Safari on a MacBook Pro
